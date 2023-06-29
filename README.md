@@ -1,4 +1,4 @@
-# Fitverse
+# MediBuddy
 
 MediBuddy is a healthcare software designed to help individuals during medical emergencies. It offers a range of health-related solutions, including ambulance bookings, doctor appointments, medicine suggestions, and lab test bookings. The software stores all the booking details in a database and sends an email to the user with the relevant information upon successful booking. MediBuddy is user-friendly, with a simple interface and voice assistance. It was developed using Visual Studio Code IDE and primarily relies on Python for programming and SQL for the database management system.
 
@@ -24,9 +24,7 @@ Make sure to add your own database and email credentials for proper working.
 
 - VIDEO
 
-
-
-
+https://github.com/manik-18/MediBuddy/assets/102967918/0515167d-8f16-40f9-946c-f5394e9bf70b
 
 ## Author
 
